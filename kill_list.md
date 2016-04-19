@@ -2,6 +2,6 @@ Kill List
 =========
 * Unused ce
 * Functions with side effects
-* Unformatted code blocks
+* Unformatted copòode blocks
 * Linus Torvalds
 j
