@@ -1,8 +1,6 @@
 Kill List
 =========
-* Unused code
+* Unused ce
 * Functions with side effects
-* Unformatted code
-* Repeated code blocks
-* Bad variable names
+* Unformatted code blocks
 * Linus Torvalds
